@@ -1,8 +1,8 @@
 # AI YouTube Video Analyzer
 
-AI YouTube Video Analyzer is a Streamlit application that analyzes a YouTube video and produces a structured report with video overview, topic progression, key learning points, and timestamp-based summaries.
+AI YouTube Video Analyzer is a Streamlit application that analyzes a YouTube video and generates a structured report with a video overview, timestamp-based summaries, topic progression, key learning points, and practical takeaways.
 
-![Sample UI](assets/sample-ui.svg)
+![Sample UI](assets/sample_ui.png)
 
 ## Features
 
@@ -17,12 +17,12 @@ AI YouTube Video Analyzer is a Streamlit application that analyzes a YouTube vid
 
 ```text
 AI-Youtube-Analyzer/
-├── AGENTICAI/
-│   ├── ui.py
-│   └── youtube_analyzer.py
-├── assets/
-│   └── sample-ui.svg
-└── README.md
+|-- AGENTICAI/
+|   |-- ui.py
+|   `-- youtube_analyzer.py
+|-- assets/
+|   `-- sample_ui.png
+`-- README.md
 ```
 
 ## Tech Stack
