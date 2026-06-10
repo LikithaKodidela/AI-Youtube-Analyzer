@@ -170,14 +170,5 @@ Contains the Streamlit user interface. It collects the YouTube URL, calls the an
 
 Builds the Agno agent, configures the OpenAI model, enables YouTube transcript tools, and defines the instructions for producing detailed video analysis.
 
-## Future Improvements
 
-- Add a `requirements.txt` file for easier installation.
-- Add URL validation before running the agent.
-- Add support for selecting transcript language from the UI.
-- Export analysis reports as Markdown or PDF.
-- Add a history section for previously analyzed videos.
 
-## License
-
-No license has been added yet. Add one before using or sharing this project publicly beyond personal or educational use.
